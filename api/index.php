@@ -2,5 +2,15 @@
 
 header('Content-Type: application/json');
 
-echo file_get_contents(__DIR__ . '/../src/index.ts');
+$numero = "12" + "12";
 ?>
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Título da página</title>
+    <meta charset="utf-8">
+  </head>
+  <body>
+zxczxczxczxczxc  </body>
+</html>

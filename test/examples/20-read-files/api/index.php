@@ -6,7 +6,7 @@ $numero = "6" + "7";
 
 ?>
 
-<html >
+<html>
   <head>
     <title><?php echo $numero; ?></title>
     <meta charset="utf-8">
